@@ -1,0 +1,14 @@
+*** setting ***
+
+
+*** Variable ***
+
+*** Test Case ***
+search หมา ด้วย chrome
+  เข้าเว็บ google
+  ค้นหาคำว่า หมา
+
+*** Keyworks ***
+search หมา ด้วย chrome
+    Open Browser	http://google.co.th 	Chrome	
+ค้นหาคำว่า หมา
